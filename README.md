@@ -10,8 +10,8 @@ Due to the newly-enacted price transparancy rule, hospitals are now required to 
 <p></p>
 <h3>The Files</h3>
 
-|+--convert_files.ipynb -> converts all xls files to xlsx format to facilitate systematic data extraction
-|+--1095_collection.ipynb -> Extracts 1045 AB form data from each hospital's workbook, first identifying relevant sheets by keyword then organizing and extracting this data.
+convert_files.ipynb -> converts all xls files to xlsx format to facilitate systematic data extraction
+1095_collection.ipynb -> Extracts 1045 AB form data from each hospital's workbook, first identifying relevant sheets by keyword then organizing and extracting this data.
 
 <p></p>
 <h2>Results</h2>
