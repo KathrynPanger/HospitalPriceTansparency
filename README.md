@@ -5,7 +5,7 @@ Due to the newly-enacted price transparency rule, hospitals are now required to 
 The goals for this project are:
 
 1. Extract and consolidate chargemaster data from of 261 California hospitals.
-2. Convert the data to sqlite format and query it from a SQL database.
+2. Convert the data to sqlite format.
 3. Use SQLAlchemy to query the data with Python to facilitate further analysis.
 4. Generate summary statistics and data visualizations to tell a cohesive story about the nature of hospital pricing in California, with an emphasis on the price breakdown in terms of types of services rendered and price discrepancies between locations.
 <p></p>
