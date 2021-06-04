@@ -1,4 +1,4 @@
-# Hospital Pricing: an Exploration of the Cost of Common Procedure
+# Hospital Pricing: The Cost of Common Procedures
 
 Due to the newly-enacted price transparency rule, hospitals are now required to disclose the amounts they charge for the services and procedures they render, making this data available for analysis. The chargemaster data from this project can be found on the [California Health and Human Services web page] (https://data.chhs.ca.gov/dataset/chargemasters).
 
